@@ -1,0 +1,48 @@
+header{
+    height: 100px;
+    background-color: blue;
+    border: solid black 2px;
+    text-align: center;
+    align-items: center;
+}
+form{
+    text-align: center;
+   
+}
+main{
+    background-color: aqua;
+}
+button{
+    padding: 15px;
+    border-radius: 10px;
+    font-size: medium;
+    
+}
+.form{
+    text-align: center;
+    margin-top: 15px;
+    font-size: medium;
+    color: rgb(33, 41, 22);
+    margin-right: 10%;
+    
+}
+#name-input,#gender-input{
+  
+   color: blueviolet;
+   font-size: medium;
+    height: 20px;
+    margin: 10px;
+}
+#gender-input{
+    margin-right: 12%;
+}
+#male-filter{
+   font-size: medium;
+   color: rgb(108, 143, 65);
+   margin-right: 10%;
+}
+footer{
+  background-color: greenyellow;
+  border: solid black 3px;
+  text-align: center;
+}
